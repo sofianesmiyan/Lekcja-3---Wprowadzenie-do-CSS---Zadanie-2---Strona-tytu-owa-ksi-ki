@@ -1,10 +1,10 @@
-div {
+.intro {
   width: 500px;
   height: 900px;
   background-color: bisque;
   text-align: center;
 }
 
-h1 {
-  margin: 100px;
+.heading {
+  margin-bottom: 100px;
 }
